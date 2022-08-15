@@ -1,0 +1,11 @@
+p{
+    font-size:11px ;
+    text-shadow: 1px .5px .5px rgba(0,0,0,0.5);
+}
+.card {
+    
+    border: 2px solid darkolivegreen;
+    box-shadow: 5px 5px 0 grey;
+    margin: 20px;
+    padding: 20px;
+}
